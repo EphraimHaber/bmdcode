@@ -1,3 +1,9 @@
 .logo {
     margin-right: 0.4em;
 }
+
+.my-code-editor {
+    .editorContainer {
+      height: calc(100vh - 100px);
+    }
+  }
